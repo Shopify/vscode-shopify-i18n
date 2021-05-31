@@ -14,7 +14,7 @@ Autocompletion, go to definition, and diagnostics for [@shopify/react-i18n](http
 
 **Go to definition and hover provider**
 
-![Hover screenshot](screnshots/hover.png)
+![Hover screenshot](screenshots/hover.png)
 
 **Autocomplete**
 
