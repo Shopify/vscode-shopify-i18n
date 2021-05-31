@@ -3,7 +3,7 @@
   "displayName": "shopify-i18n",
   "description": "Better shopify react-i18n experiences with VS Code",
   "version": "0.0.5",
-  "publisher": "mohebifar",
+  "publisher": "Shopify",
   "engines": {
     "vscode": "^1.38.0"
   },
@@ -18,7 +18,7 @@
   ],
   "main": "./out/extension.js",
   "repository": {
-    "url": "https://github.com/mohebifar/vscode-shopify-i18n",
+    "url": "https://github.com/Shopify/vscode-shopify-i18n",
     "type": "git"
   },
   "contributes": {
